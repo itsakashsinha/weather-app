@@ -1,0 +1,19 @@
+.display-container {
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .weather-display {
+    text-align: center;
+    background-color: rgba(107, 107, 238, 0.8);
+    /* Semi-transparent background */
+    color: white;
+    border-radius: 30px;
+    height: 400px;
+    padding: 50px;
+  }
+  
+  .weather-display img {
+    height: 200px;
+  }
